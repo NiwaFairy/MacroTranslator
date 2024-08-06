@@ -1,2 +1,39 @@
 日本語のテキスト|Romaji Text|English Translation|Description of the entry
-抜けます|Nukemasu|Leaving|When leaving the group
+よろしくお願いします|Yoroshiku onegaishimasu|Nice to meet you|This one does not have a good English equivalent. Basically the primary place you'll encounter it is when you join a group, in which case it means "Nice to meet you."
+おはようございます|Ohayou gozaimasu|Good morning|Similar to English, this one is used regardless of whether it's a good morning, or not.
+こんにちは|Konnichiha|Hi|
+こんばんは|Konbanha|Good evening|
+お疲れ様でした|Otsukaresamadeshita|Thank you for your hard work|Very common phrase used to show appreciation for the effort someone put in. Expect to see it at the end of every duty. Auto-translates to "Good game!".
+抜けます|Nukemasu|I'm leaving|
+解散します|Kaisan shimasu|Disbanding party|
+待ってください|Matte kudasai|Please wait|
+離席|Riseki|AFK/BRB|Usually a time is specified like: ５分離席.
+トイレ|Toire|Bathroom|
+いてら|Itera|What people say to see someone off|Very abbreviated form of いってらっしゃい.
+おか|Oka|Welcome back|Abbreviated version of おかえりなさい.
+戻りました|Modorimashita|I'm back|Usually from being AFK
+すみません|Sumimasen|Excuse me|
+失礼します|Shitsurei shimasu|Excuse me|
+ごめんなさい|Gomennasai|I'm sorry|
+どま|Doma|Don't worry about it|Used after someone makes a mistake. It's an abbreviated form of "Don't mind".
+お願いします|Onegaishimasu|Please|Can mean various things. Primarily used to add courtesy.
+さん|San|Mr./Mrs.|Common honorific.
+了解|Ryoukai|Roger that|Affirmative response
+間違いました|Machigaimashita|I mistook (something)|Example usage: 位置間違いました (I mistook my position/I was in the wrong place)
+鯖|Saba|Server|This only means server if it's written in a game. Otherwise, it's a type of fish. Mackerel, to be exact.
+メンテ|Mente|Maintenance|Ironically, added this during 7.0 maintenance
+募集|Boshuu|Recruit|募集中 for "Recruiting"
+断章 or 欠片|Danshou or Kakera|Book run|欠片 is very rarely used, but just in case, I listed it.
+フリロ|Furiro|Free roll (FFA) loot system|
+取り抜け|Torinuke|Leave after you win a piece of loot|Usually L>R (Left to Right) loot system but they might specify otherwise in the PF description.
+全パス|Zen pasu|Passing on everything|Usually used when someone is buying loot, implying you'll pass on everything. Can also mean that the leader passes everything except for the 1 piece that they need.
+層|Sou|Floor|Japanese players count the floors from 1-4, always. If P9-P12 is the latest tier, 9 would be 1, and 12 would be 4.
+初見|Shoken|Fresh|First time attempting a duty.
+未予習|Miyoshuu|Blind|As in you haven't watched a guide in preparation.
+安定|Antei|Clean up (a mechanic)|
+練習|Renshuu|Practice|
+クリア目的|Kuria mokuteki|Aim to clear|Can be abbreviated as クリ目.
+未|Mi|Not yet (done)|Usually combined with 消化 or 予習.
+済|Sumi|Already (done)|Usually combined with 消化 or 予習.
+予習|Yoshuu|Preparation|Usually combined with 未
+
