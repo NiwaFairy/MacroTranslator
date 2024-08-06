@@ -1,6 +1,4 @@
-hello hola
-world mundo
-example ejemplo
-exam examen
-散開 "散開 translation"
-頭割 "頭割 translation"
+hello "hola, bonjour" "Greeting in various languages"
+world "mundo, monde" "Commonly used in global contexts"
+散会 "散会 translation"
+頭割 "頭割 translation" "Used in specific contexts"
