@@ -3,4 +3,4 @@ world mundo
 example ejemplo
 exam examen
 散開 "散開 translation"
-頭割 頭割 translation
+頭割 "頭割 translation"
