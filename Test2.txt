@@ -98,31 +98,31 @@
 タン強 | Tannkyou | Tank buster | Abbreviation
 低下 | Teika | Damage Down | The debuff
 詠唱 | Eishou | Boss cast | For example, if the boss cast determines if it's a spread or stack.
-カータライズ | Ka-taraizu | Dive Bomb | 
-ツイスター | Tsuisuta- | Twister | 
-拘束具 | Kousokugu | Neurolink | 
-魔力錬成 | Maryokurensei | Orb | 
-プラメット | Purametto | Plummet | 
-進軍 | Shingun | Quickmarch Trio | 
-黒煙 | Kokuen | Blackfire Trio | 
-厄災 | Yakusai | Fellruin Trio | 
-天地 | Tenchi | Heavensfall Trio | 
-連撃 | Rengeki | Tenstrike Trio | 
-群竜 | Gunryuu | Grand Octet | 
-ジェイル | Jeiru | Gaol | 
-エラプション | Erapushon | Eruption | 
-楔 | Kusabi | Nail | 
-覚醒 | Kakusei | Awaken | 
-迫撃 | Hakugeki | Predation | 
-爆撃 | Bakugeki | Annihilation | 
-乱撃 | Rangeki | Suppression | 
-誘導レーザー | Yuudou re-za- | Homing Laser | 
-ヤークト | Ya-kuto | Dolls | 
-サイコロ | Saikoro | Limit Cut | This applies to all Limit Cut mechanics. Saikoro means dice in Japanese, so it's in reference to the dice-like way the numbers are presented.
-二体フェーズ | Nitai Fe-zu | BJCC Phase | 
-水頭割り | Mizu atamawari | Water Stack | 
-カウント | Kaunto | Enumeration | This applies to most Enumeration mechanics.
-時間停止 | Jikanteishi | Temporal Stasis | 
-時空先行 | Jikuusenkou | Inception | 
-断絶 | Danzetsu | Wormhole | 
-パレキ | Pareki | Perfect Alex | 
+カータライズ | Ka-taraizu | Dive Bomb | | UCOB
+ツイスター | Tsuisuta- | Twister | | UCOB
+拘束具 | Kousokugu | Neurolink | | UCOB
+魔力錬成 | Maryokurensei | Orb | | UCOB
+プラメット | Purametto | Plummet | | UCOB
+進軍 | Shingun | Quickmarch Trio | | UCOB
+黒煙 | Kokuen | Blackfire Trio | | UCOB
+厄災 | Yakusai | Fellruin Trio | | UCOB
+天地 | Tenchi | Heavensfall Trio | | UCOB
+連撃 | Rengeki | Tenstrike Trio | | UCOB
+群竜 | Gunryuu | Grand Octet | | UCOB
+ジェイル | Jeiru | Gaol | | UWU
+エラプション | Erapushon | Eruption | | UWU
+楔 | Kusabi | Nail | | UWU
+覚醒 | Kakusei | Awaken | | UWU
+迫撃 | Hakugeki | Predation | | UWU
+爆撃 | Bakugeki | Annihilation | | UWU
+乱撃 | Rangeki | Suppression | | UWU
+誘導レーザー | Yuudou re-za- | Homing Laser | | UWU
+ヤークト | Ya-kuto | Dolls | | TEA
+サイコロ | Saikoro | Limit Cut | This applies to all Limit Cut mechanics. Saikoro means dice in Japanese, so it's in reference to the dice-like way the numbers are presented.| TEA
+二体フェーズ | Nitai Fe-zu | BJCC Phase | | TEA
+水頭割り | Mizu atamawari | Water Stack | | TEA
+カウント | Kaunto | Enumeration | This applies to most Enumeration mechanics.| TEA
+時間停止 | Jikanteishi | Temporal Stasis | | TEA
+時空先行 | Jikuusenkou | Inception | | TEA
+断絶 | Danzetsu | Wormhole | | TEA
+パレキ | Pareki | Perfect Alex | | TEA
