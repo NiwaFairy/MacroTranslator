@@ -1,6 +1,6 @@
-"hello": "hola",
-"world": "mundo",
-"example": "ejemplo",
-"exam": "examen",
-"散開": "散開 translation",
-"頭割": "頭割 translation"
+hello hola
+world mundo
+example ejemplo
+exam examen
+散会 散会 translation
+頭割 頭割 translation
